@@ -1,6 +1,6 @@
 # 🤖 Agentic-AI-Automation-System
 Multi-Agent AI Assistant (n8n & LangChain)
-Welcome to the Vaev project! This is a highly capable, autonomous personal assistant built entirely using n8n. Operating primarily through Telegram, Vaev utilizes LangChain and OpenAI's GPT-4 models to orchestrate multiple specialized AI Agents.
+Welcome to my Agentic AI project! This is a highly capable, autonomous personal assistant built entirely using n8n. Operating primarily through Telegram, AI utilizes LangChain and OpenAI's GPT-4 models to orchestrate multiple specialized AI Agents.
 
 Instead of relying on a single monolithic prompt, this system routes natural language requests to the appropriate "Sub-Agent" tool, executes complex tasks (like managing emails, parsing invoices, or scheduling), asks for human confirmation via interactive Telegram buttons, and integrates seamlessly with Google Workspace and Zapier.
 
@@ -17,7 +17,7 @@ Finalization: Upon approval, the data is pushed to endpoints like Google Sheets,
 
 🧠 The Agents
 1. 🎛️ Orchestrator Agent (Main Router)
-The central nervous system of Vaev. Powered by GPT-4 mini and LangChain memory, it evaluates incoming Telegram messages. It never performs the tasks directly; instead, it intelligently decides whether to trigger the Calendar, Social Media, Gmail, Document, or Image processing tool based on context.
+The central nervous system of AI. Powered by GPT-4 mini and LangChain memory, it evaluates incoming Telegram messages. It never performs the tasks directly; instead, it intelligently decides whether to trigger the Calendar, Social Media, Gmail, Document, or Image processing tool based on context.
 
 2. 📅 Calendar Agent
 Manages schedule and time efficiently.
