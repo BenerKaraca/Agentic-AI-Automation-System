@@ -73,3 +73,4 @@ External Integrations: Zapier (for Social Media Video Publishing)
 Due to security reasons, sensitive internal data flows, and active API credentials, the raw JSON workflow files for this project are not publicly available in this repository. The system relies on deeply integrated personal and enterprise nodes. If you are a recruiter, developer, or enthusiast interested in seeing how the LangChain agents are configured, or if you'd like a live demonstration of the routing and approval mechanics, please feel free to reach out to me directly! I would be more than happy to walk you through the architecture in a secure environment.
 
 Developed by Bener Karaca
+<img width="1040" height="564" alt="image" src="https://github.com/user-attachments/assets/8762fff2-50e7-4369-9218-5e8f927e2f11" />
