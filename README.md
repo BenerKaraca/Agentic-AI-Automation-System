@@ -1,4 +1,4 @@
-# Agentic-AI-Automation-System
+# 🤖 Agentic-AI-Automation-System
 Multi-Agent AI Assistant (n8n & LangChain)
 Welcome to the Vaev project! This is a highly capable, autonomous personal assistant built entirely using n8n. Operating primarily through Telegram, Vaev utilizes LangChain and OpenAI's GPT-4 models to orchestrate multiple specialized AI Agents.
 
